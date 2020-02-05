@@ -1,12 +1,11 @@
 
 
-<<<<<<< HEAD
       body { background-color: pink ;}
       
 
     h1 {
-      background-color: gray;
-      color:white;
+      background-color: pink;
+      color:gray;
       padding:10px 5px 0;
      
     }
@@ -16,28 +15,6 @@
  nav a{
    color:pink;
    font-size:15px;
-=======
-      body { background-color:gray ;}
-  
-      
-
-    h1 {
-      background-color:pink;
-      color:white;
-      padding:10px 5px 0;
-      
-     
-    }
-
- nav{background-color :pink;
-  
-  
- }
- nav a{
-   color:gray;
-   font-size:15px;
-  
->>>>>>> fec77a5fd5e47176cae1a10684615f997f8c1cb9
  }
 
 #logo {width: 300px;}
@@ -47,10 +24,6 @@ h3 a{
 }
 
 h3{
-<<<<<<< HEAD
   color:blue;
-=======
-  color:black;
->>>>>>> fec77a5fd5e47176cae1a10684615f997f8c1cb9
 }
  
