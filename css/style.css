@@ -1,0 +1,29 @@
+
+
+      body { background-color: pink ;}
+      
+
+    h1 {
+      background-color: gray;
+      color:white;
+      padding:10px 5px 0;
+     
+    }
+
+ nav{background-color : gray;
+ }
+ nav a{
+   color:pink;
+   font-size:15px;
+ }
+
+#logo {width: 300px;}
+
+h3 a{
+  color:gray;
+}
+
+h3{
+  color:blue;
+}
+ 
